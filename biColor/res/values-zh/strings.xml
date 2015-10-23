@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">双色物语</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_undo">undo</string>
+    <string name="action_help">help</string>
+    <string name="action_backmain">backmain</string>
+    <string name="level1_des1">利用画笔</string>
+    <string name="level1_des2">将屏幕</string>
+    <string name="level1_des3">涂成主色</string>
+    <string name="level2_des1">再来一次</string>
+    <string name="level3_des1">太简单了 ?</string>
+    <string name="level3_des2">试试两种颜色:)</string>
+    <string name="level4_des10">标题栏：三种功能</string>
+    <string name="level4_des11">标题栏: </string>
+    <string name="level4_des2">回到主菜单</string>
+    <string name="level4_des3">重新开始</string>
+    <string name="level4_des4">撤销上一步</string>
+    <string name="show_off">炫耀一下</string>
+    <string name="next_level">下一关</string>
+    <string name="next_back">返回</string>
+    <string name="share_1">我完成了游戏 #Bicolor 双色物语#的第</string>
+    <string name="share_2">关。\n 和我一起来挑战吧！</string>
+
+</resources>

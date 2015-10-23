@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center" >
+
+
+    </android.support.v4.view.ViewPager>
+
+    <ImageView
+            android:id="@+id/guider"
+            android:layout_width="345.0dip"
+            android:layout_height="98.0dip"
+            android:layout_marginTop="150.0dip"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/gesture_guide"
+            android:visibility="gone" />
+</RelativeLayout>

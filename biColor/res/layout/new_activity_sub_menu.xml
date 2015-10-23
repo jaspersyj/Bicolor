@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/submenu_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:padding="30dp" >
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_marginTop="-4dp"
+        android:layout_marginBottom="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/sub_button8"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/sub_button8"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_marginBottom="-4dp"
+        android:layout_marginTop="-4dp"
+        android:layout_above="@+id/sub_button8"
+        android:layout_centerHorizontal="true"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_toLeftOf="@+id/sub_button5"
+        android:layout_alignBottom="@+id/sub_button5"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_toRightOf="@+id/sub_button5"
+        android:layout_alignBottom="@+id/sub_button5"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_marginBottom="-4dp"
+        android:layout_above="@+id/sub_button5"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_toLeftOf="@+id/sub_button2"
+        android:layout_alignBottom="@+id/sub_button2"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/sub_button2"
+        android:layout_alignBottom="@+id/sub_button2"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/sub_button8"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_marginTop="-4dp"
+        android:layout_marginBottom="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/sub_button11"
+        android:layout_alignBottom="@+id/sub_button11"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/sub_button11"
+        android:layout_alignBottom="@+id/sub_button11"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:layout_marginTop="-4dp"
+        android:layout_below="@+id/sub_button11"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/sub_button14"
+        android:layout_alignBottom="@+id/sub_button14"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:typeface="monospace" />
+
+    <com.jasper.bicolorstorm.FrameButton
+        android:id="@+id/sub_button15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/sub_button14"
+        android:layout_alignBottom="@+id/sub_button14"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginRight="-4dp"
+        android:typeface="monospace" />
+
+</RelativeLayout>

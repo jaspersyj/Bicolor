@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bicolor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_undo">undo</string>
+    <string name="action_help">help</string>
+    <string name="action_backmain">backmain</string>
+    <string name="level1_des1">Use Your Finger To</string>
+    <string name="level1_des2">Draw The Screen</string>
+    <string name="level1_des3">To Backgroud Color</string>
+    <string name="level2_des1">Try Yourself</string>
+    <string name="level3_des1">Too Simple ?</string>
+    <string name="level3_des2">Try Two Numbers:)</string>
+    <string name="level4_des10">Action Bar：(TOP)</string>
+    <string name="level4_des11">Action Bar:</string>
+    <string name="level4_des2">Back To Main</string>
+    <string name="level4_des3">Restart</string>
+    <string name="level4_des4">Undo</string>
+    <string name="show_off">Show Off</string>
+    <string name="next_level">Next Level</string>
+    <string name="next_back">Back To Main</string>
+    <string name="share_1">I have completed the LEVEL</string>
+    <string name="share_2">in Game #Bicolor#. \nCome on to fight with me!</string>
+
+</resources>
